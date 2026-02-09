@@ -1,0 +1,81 @@
+
+
+
+header{
+    text-align: center;
+    color: rgb(208, 241, 230);
+   background-image: url(istockphoto-1310488699-1024x1024.jpg);
+    padding: 10px;
+}
+nav {
+    background-color: rgb(196, 196, 231);
+    padding: 10px;
+    margin: 15px;
+    width: 15%;
+    font-size: 15px; 
+    text-align: center;
+}
+
+main{
+    width: 0px auto;
+    padding: 15px;
+}
+
+section{
+    padding: 0% ;
+    margin: 10px;
+ 
+
+}
+.card1{ /* rapport*/
+    background-color: rgb(233, 159, 178);
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    font-size: 15px;
+    text-align: center;
+    position:relative;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+}
+.card2{ /* interview*/
+    background-color: rgb(184, 202, 166);
+    padding: 15px;
+    width: 15%;
+    border-radius: 100px;
+    left: 10px;
+    text-align: center;
+}
+.card3{  /* mon parcours*/
+    background-color: rgb(231, 206, 136);
+    padding: 15px;
+    width: 150px;
+    text-align: center;
+    left: 400px;
+}
+.card4{  /*conclusion*/
+    background-color: rgb(176, 223, 220);
+    width: 45%;
+    margin: 10px 2%; 
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 15px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.centralise{ /*page centralise*/
+    width: 1024px;
+    margin: 0;
+
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    margin-top: 900px ;
+   padding: 10px;
+   
+}
